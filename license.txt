@@ -1,0 +1,7 @@
+
+Copyright (c) 2018 Ismael Fernandez
+
+The permit is granted to anyone who obtains a copy
+of this software and the associated documentation files (the "Software"), to deal with
+in software without restrictions, including, among others, the rights
+for personal use, copy, modify, merge, publish. It is prohibited to market.
